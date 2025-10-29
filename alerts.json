@@ -1,0 +1,66 @@
+[
+  {
+    "id": "c991b73d-0189-42d9-8d6e-d9ea7b242e1f",
+    "user_id": 559217924,
+    "pair": "BTCUSDT",
+    "alert_type": "above",
+    "target_value": 114000.0,
+    "initial_price": 113150.86
+  },
+  {
+    "id": "538c33bd-6ed8-47e0-924f-baa2ae54ec93",
+    "user_id": 559217924,
+    "pair": "ETHUSDT",
+    "alert_type": "below",
+    "target_value": 4020.0,
+    "initial_price": 4022.75
+  },
+  {
+    "id": "bb8d85ef-bb79-4f87-80f8-74a6f24e80b3",
+    "user_id": 559217924,
+    "pair": "ETHUSDT",
+    "alert_type": "percent_up",
+    "target_value": 1.0,
+    "initial_price": 4023.62
+  },
+  {
+    "id": "1c04e75b-eb38-48b4-8aaa-457144b025d4",
+    "user_id": 559217924,
+    "pair": "SOLUSDT",
+    "alert_type": "above",
+    "target_value": 195.0,
+    "initial_price": 195.92
+  },
+  {
+    "id": "17340a1a-4d20-422a-885d-6fc78f3367e7",
+    "user_id": 559217924,
+    "pair": "BNBUSDT",
+    "alert_type": "below",
+    "target_value": 1115.0,
+    "initial_price": 1116.59
+  },
+  {
+    "id": "d64156d5-a941-4bd0-b94c-dc7a62d0e238",
+    "user_id": 559217924,
+    "pair": "BTCUSDT",
+    "alert_type": "above",
+    "target_value": 113500.0,
+    "initial_price": 113359.1
+  },
+  {
+    "id": "16532b83-a688-4495-b47f-e9bdfe40856b",
+    "user_id": 559217924,
+    "pair": "SOLUSDT",
+    "alert_type": "below",
+    "target_value": 195.0,
+    "initial_price": 195.29
+  },
+  {
+    "id": "e06f2ba6-4b58-45c2-91c8-317c147f9843",
+    "user_id": 559217924,
+    "pair": "BTCUSDT",
+    "alert_type": "above",
+    "target_value": 114500.0,
+    "initial_price": 113550.15
+  }
+]
